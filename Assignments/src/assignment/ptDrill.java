@@ -19,5 +19,6 @@ public class ptDrill {
 				stu[i][j] = sc.nextLine();
 			}
 		}
+
 	}
 }
